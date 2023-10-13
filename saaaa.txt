@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>sandhiya</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="topbar">
+</div>
+<div id="container">
+<div id="header">
+<img src="download.jpg" alt="image not found">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Bloodline</a></li>
+<li><a href="#">Upcoming</a></li>
+<li><a href="#">Eventual goal</a></li>
+<ul>
+</div>
+<div id="sand">
+<img src="sand.jpg"/>
+</div>
+
+<div id="content1">
+<h4 class="heading">Upcoming</h4>
+<p class="para1">I want to complete cse engineering with good cgpa..</p>
+<a href="#" class="more">Read More...</a>
+</div>
+
+<div id="content2">
+<h4 class="heading">Evantual Goal</h4>
+<p class="para1">I want to buy a flat on the 15th floor of the building..</p>
+<a href="#" class="more">Read More...</a>
+</div>
+
+<div id="content3">
+<h4 class="heading">Bloodline</h4>
+<p class="para1">All the members of a family group of people over a..</p>
+<a href="#" class="more">Read More...</a>
+</div>
+
+<div id="bottom1">
+<h2>Achievements</h2>
+<p>I got appreciation award for 100% attendance for the year 2018-2019 at G.K.Shetty Vivekananda Vidyalaya Junior College.</p>
+
+<p>I am completed geethika examination conducted by samskrita bharati in the year 2017-2018 securing third class.</p>
+
+<p>I am completed vatika examination conducted by samskrita bharati in the year 2016-2017 securing third class.</p>
+
+<p>I am participated in the Sri Vishnu sahasranamam chanting held at GKSVVJC on 15.11.2014.</p>
+</div>
+</div>
+
+<div id="footer">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Bloodline</a></li>
+<li><a href="#">Upcoming</a></li>
+<li><a href="#">Eventual goal</a></li>
+</ul>
+<p>&copy: 2023 | Designed by SANDHIYA</p>
+</div>
+
+</body>
+</html>
